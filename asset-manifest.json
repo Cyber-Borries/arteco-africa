@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/arteco-africa/static/css/main.cb793af2.css",
+    "main.js": "/arteco-africa/static/js/main.b5d106cd.js",
+    "static/js/787.b69b6731.chunk.js": "/arteco-africa/static/js/787.b69b6731.chunk.js",
+    "static/media/twitter.png": "/arteco-africa/static/media/twitter.894988327f8d68209e91.png",
+    "static/media/arteco-logo.JPG": "/arteco-africa/static/media/arteco-logo.4777e775caab0281dc2f.JPG",
+    "static/media/facebook.png": "/arteco-africa/static/media/facebook.4f037d961598aff2a0a4.png",
+    "index.html": "/arteco-africa/index.html",
+    "main.cb793af2.css.map": "/arteco-africa/static/css/main.cb793af2.css.map",
+    "main.b5d106cd.js.map": "/arteco-africa/static/js/main.b5d106cd.js.map",
+    "787.b69b6731.chunk.js.map": "/arteco-africa/static/js/787.b69b6731.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb793af2.css",
+    "static/js/main.b5d106cd.js"
+  ]
+}
